@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "57359adceae98d5226a4adb928badc23"
+build_time: [1558189010, 454709000]
+inputs:
+  "/Users/Prasad/POC/ProjectC/ProjectC/Network/Accessors.swift": [9223372036, 854775807]
+  "/Users/Prasad/POC/ProjectC/ProjectC/Network/Sync.swift": [9223372036, 854775807]
+  "/Users/Prasad/POC/ProjectC/ProjectC/Network/SessionDelegate.swift": [9223372036, 854775807]
+  "/Users/Prasad/POC/ProjectC/ProjectC/Network/PCDownloader.swift": [9223372036, 854775807]

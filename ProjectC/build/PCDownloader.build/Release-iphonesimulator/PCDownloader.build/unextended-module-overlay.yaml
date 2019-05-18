@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/Prasad/Library/Developer/Xcode/DerivedData/PCDownloader-drnviujboxnahpbsnejgclavwauu/Build/Intermediates.noindex/ArchiveIntermediates/PackageiOS/BuildProductsPath/Release-iphonesimulator/PCDownloader.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/Prasad/POC/ProjectC/build/PCDownloader.build/Release-iphonesimulator/PCDownloader.build/unextended-module.modulemap",
+    }]
+  }]
+}

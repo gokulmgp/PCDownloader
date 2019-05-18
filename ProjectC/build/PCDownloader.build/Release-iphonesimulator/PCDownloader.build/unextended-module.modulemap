@@ -1,0 +1,10 @@
+framework module PCDownloader {
+  umbrella header "PCDownloader.h"
+
+  export *
+  module * { export * }
+}
+
+module PCDownloader.__Swift {
+    exclude header "PCDownloader-Swift.h"
+}

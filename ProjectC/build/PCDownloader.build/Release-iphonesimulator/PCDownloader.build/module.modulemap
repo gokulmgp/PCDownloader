@@ -1,0 +1,11 @@
+framework module PCDownloader {
+  umbrella header "PCDownloader.h"
+
+  export *
+  module * { export * }
+}
+
+module PCDownloader.Swift {
+    header "PCDownloader-Swift.h"
+    requires objc
+}
